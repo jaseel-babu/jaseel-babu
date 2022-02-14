@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi , I'm Jaseel Babu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Self-tought+Flutter+Developer;Competitive+Programmer;ACPC+2021+Finalist;DS%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Division%202%20on%20Codechef%20(3%20Stars);6%20Kyu%20on%20Atcoder;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Self-tought+Flutter+Developer;Competitive+Programmer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 
@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 
 ## :sassy_man:  About me
-- :school:Bachelor from Calicut University
-- :technologist: A passionate `self-learner`
-- :student: I’m currently Focusing : `Flutter ` and `DART`.
+- :school:Bachelors from Calicut University
+- :technologist: A passionate `Self-Learner`
+- :student: I’m currently Focusing : `Flutter` and `DART`.
 - :thinking: I’m currently open for: a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1Zf7g3AgojCafzWnuwirDfEuxZNHHYaKI/view?usp=sharing).
 - :nerd_face: Always `learning new things`
 
@@ -60,16 +60,12 @@ Here are some ideas to get you started:
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaseel-babu&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="jaseel-babu" height="192px"/>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
   </p>
 
 ----
 
 <br/>
 
-## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaseel-babu&layout=compact&theme=algolia" alt="7oskaaa" /></a> </p>
-
------
 
